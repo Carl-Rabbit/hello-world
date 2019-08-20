@@ -1,7 +1,7 @@
 # hello-world
 
 Hi there. I'm a student from China. It is my first time using github.
-I'm fond of coding, and have learnt Java, C++, python a littile bit.
+I'm fond of coding, and have learnt Java, C++, python a little bit.
 Hope here can bring me lots of fun and insterets.
 
 to everyone and also myself.
